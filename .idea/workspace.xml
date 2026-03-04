@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1c52d909-f690-4a33-8a0a-5d91a101f3f1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/routes/home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/home.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/Upload.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Upload.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="31" />
+    <option name="cachedIndexableFilesCount" value="33" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
@@ -48,7 +47,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "dev.sweep.assistant.data.RecentlyUsedFiles": "app\\routes\\home.tsx;app\\routes.ts;app\\routes\\visualizer.$id.tsx;app\\root.tsx;Components\\Navbar.tsx;lib\\Constant.ts;Components\\Upload.tsx;lib\\Constant.tsx;node_modules\\lucide-react\\dist\\lucide-react.d.ts;Components\\upload.tsx",
+    "dev.sweep.assistant.data.RecentlyUsedFiles": "Components\\Upload.tsx;app\\routes\\home.tsx;app\\routes.ts;app\\routes\\visualizer.$id.tsx;app\\root.tsx;Components\\Navbar.tsx;lib\\Constant.ts;lib\\Constant.tsx;node_modules\\lucide-react\\dist\\lucide-react.d.ts;Components\\upload.tsx",
     "git-widget-placeholder": "upload-files",
     "ignore.virus.scanning.warn.message": "true",
     "javascript.preferred.runtime.type.id": "node",
@@ -74,6 +73,13 @@
       </map>
     </option>
   </component>
+  <component name="RecapSpentCounter">
+    <option name="endsOfQuotaMs" value="1774094699955" />
+    <option name="spentUsd" value="0.010841" />
+  </component>
+  <component name="RecapUselessUpdatesCounter">
+    <option name="suspendCountdown" value="8" />
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -98,7 +104,8 @@
       <workItem from="1772195896000" duration="634000" />
       <workItem from="1772255368209" duration="6259000" />
       <workItem from="1772267258601" duration="3735000" />
-      <workItem from="1772516357869" duration="987000" />
+      <workItem from="1772516357869" duration="2256000" />
+      <workItem from="1772608170930" duration="2185000" />
     </task>
     <servers />
   </component>
