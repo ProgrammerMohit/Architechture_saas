@@ -117,8 +117,8 @@ const VisualizerId = () => {
 
           <span className="name">Roomify</span>
         </div>
-        <Button variant="ghost" size="sm" onClick={handleBack} className="exit">
-          <X className="icon" /> Exit Editor
+        <Button variant="ghost" size="sm" onClick={handleBack} className="exit cursor-pointer">
+          <X className="icon " /> Exit Editor
         </Button>
       </nav>
 
@@ -139,10 +139,10 @@ const VisualizerId = () => {
                 className="export"
                 disabled={!currentImage}
               >
-                <Download className="w-4 h-4 mr-2" /> Export
+                <Download className="w-4 h-4 mr-2 cursor-pointer" /> Export
               </Button>
               <Button size="sm" onClick={() => {}} className="share">
-                <Share2 className="w-4 h-4 mr-2" />
+                <Share2 className="w-4 h-4 mr-2 cursor-pointer" />
                 Share
               </Button>
             </div>

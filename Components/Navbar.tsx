@@ -45,13 +45,13 @@ const Navbar = () => {
                                 {userName ? `Hi, ${userName}` : 'Signed in'}
                             </span>
 
-                            <Button size="sm" onClick={handleAuthClick} className="btn">
+                            <Button size="sm" onClick={handleAuthClick} className="btn cursor-pointer" >
                                 Log Out
                             </Button>
                         </>
                     ) : (
                         <>
-                            <Button onClick={handleAuthClick} size="sm" variant="ghost">
+                            <Button onClick={handleAuthClick} size="sm" variant="ghost" className="cursor-pointer">
                                 Log In
                             </Button>
 
