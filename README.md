@@ -1,7 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/JiwTGGGIhDs" target="_blank">
-      <img src="public/readme/readme-hero.webp" alt="Project Banner">
+      <img src="[public/readme/readme-hero.webp](https://chatgpt.com/s/m_69ba21967b208191ab4384f9b7ad44d9)" alt="Project Banner">
     </a>
   <br />
 
