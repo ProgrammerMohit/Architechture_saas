@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      <img src="https://chatgpt.com/s/m_69ba21967b208191ab4384f9b7ad44d9" alt="Project Banner">
+      <img src="https://ibb.co/8gCm5RSP" alt="Project Banner">
     </a>
   <br />
 
